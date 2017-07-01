@@ -1,0 +1,7 @@
+{
+  "name": "Connect",
+  "description": "A easy way instead of port forwarding.",
+  "repository": "https://github.com/trilleplay/node-pptp/",
+  "logo": "https://avatar.tobi.sh/",
+  "keywords": ["node", "express", "static"]
+}
