@@ -2,6 +2,8 @@
 Simple PPTP VPN server I started working on for a project, but ultimately abandoned. Maybe this will
 be useful for someone.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/trilleplay/node-pptp)
+
 Features:
 * No authentication; credentials are not requested.
 * No encryption.
