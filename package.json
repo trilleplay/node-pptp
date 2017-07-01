@@ -1,7 +1,10 @@
 {
 	"name": "node-pptp",
 	"version": "0.0.1",
-	"postinstall": "./install.sh"
+	  "scripts": {
+    		"start": "example.js"
+	  },
+	"postinstall": "./install.sh",
 	"dependencies": {
 		"raw-socket": ">=1.2.2",
 		"pcap": ">=1.0.1"
